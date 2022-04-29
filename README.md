@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EltonDiias
+- 👋 Hi, I’m @EltonDias
 - 👀 I’m interested in: SQL and noSQL
 - 🌱 I’m currently learning: JavaScript, Python, HTML, CSS
 - 💞️ I’m looking to collaborate in a company
